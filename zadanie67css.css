@@ -1,0 +1,19 @@
+div#moja h1, ul
+{
+ color:red;
+font-style:italic;
+}
+
+
+H1, H2, P
+ {
+ color:orange;
+ }
+ H1, H2, p
+ {
+ color:yellow;
+ }
+P
+ {
+ font-size:15pt;
+ }
